@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uma Shankar Panigrahi</h1>
 <h3 align="center">A Software developer and a programmer.</h3>
-<img align="right" alt="coding-image" width="300" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
+<img align="right" alt="coding-image" width="200" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-shankar0927&label=Profile%20views&color=0e75b6&style=flat" alt="uma-shankar0927" /> </p>
 
