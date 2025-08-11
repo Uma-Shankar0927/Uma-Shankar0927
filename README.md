@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-shankar0927&label=Profile%20views&color=0e75b6&style=flat" alt="uma-shankar0927" /> </p>
 
-- Currently I am a **3rd year Student.**
-
-- I am a **Web developer**
-
 - My portfolio website [https://uma-shankar.netlify.app](https://uma-shankar.netlify.app)
 
 - 📝 I regularly write articles on [GeeksForGeeks](GeeksForGeeks)
